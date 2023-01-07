@@ -9,7 +9,7 @@
     <a href="https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA/hub"><strong>Frontend Mentor Challenge</strong></a>
     <br />
     <br />
-    <a href="https://warm-custard-2f1f42.netlify.app/">View Demo</a>
+    <a href="https://singular-tapioca-0d0d81.netlify.app/">View Demo</a>
   </p>
 </div>
 
@@ -25,8 +25,8 @@ This is a solution to the [Social Proof Section challenge on Frontend Mentor](ht
 
 <h2 align="center">Links</h2>
 
-- Solution URL: [nft-preview-card-component using HTML and CSS | Frontend Mentor](https://www.frontendmentor.io/solutions/nft-preview-card-component-G95Ar1KF5O)
-- Live Site URL: [https://warm-custard-2f1f42.netlify.app/](https://warm-custard-2f1f42.netlify.app/)
+- Solution URL: [Social Proof Section using HTML and CSS | Frontend Mentor](https://www.frontendmentor.io/solutions/social-proof-section-Kw9bcjyVnC)
+- Live Site URL: [https://singular-tapioca-0d0d81.netlify.app/](https://singular-tapioca-0d0d81.netlify.app/)
 
 <br>
 
